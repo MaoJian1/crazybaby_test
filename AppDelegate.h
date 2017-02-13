@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  crazybaby_test
+//
+//  Created by Walnut Tech on 10/2/17.
+//  Copyright © 2017年 MaoJian. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
